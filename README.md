@@ -8,3 +8,6 @@
 
 # some things are not see to insist,but insist the will see hope.
 有些事不是看到希望才去坚持，而是坚持了才会看到希望。
+
+# Home is not where you live but where they understand you.
+栖身之所不一定是家，有人懂你之处才是家。
