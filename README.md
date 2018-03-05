@@ -11,3 +11,6 @@
 
 # Home is not where you live but where they understand you.
 栖身之所不一定是家，有人懂你之处才是家。
+
+# Don't be afraid of the darkness.Don't be afraid to chase your dreams.Don't be afraid to be yourself.Follow your own path.
+不要害怕黑暗，不要害怕追寻自己的梦想，不要害怕做与众不同的自己，走你自己的路。
