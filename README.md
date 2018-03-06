@@ -14,3 +14,6 @@
 
 # Don't be afraid of the darkness.Don't be afraid to chase your dreams.Don't be afraid to be yourself.Follow your own path.
 不要害怕黑暗，不要害怕追寻自己的梦想，不要害怕做与众不同的自己，走你自己的路。
+
+# True love is not the temporary likeness and I know is's the feeling meeting you is hard and it will be a pity if I miss you.
+真正的爱情不是一时好感，而是我知道遇到你不容易，错过了会很可惜。
