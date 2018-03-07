@@ -17,3 +17,6 @@
 
 # True love is not the temporary likeness and I know is's the feeling meeting you is hard and it will be a pity if I miss you.
 真正的爱情不是一时好感，而是我知道遇到你不容易，错过了会很可惜。
+
+# It takes a great deal of bravery to stand up to your enemies, but a great deal more to stand up to your friends.
+面对敌人需要勇气，但敢于直面朋友，需要更大的勇气。
