@@ -20,3 +20,6 @@
 
 # It takes a great deal of bravery to stand up to your enemies, but a great deal more to stand up to your friends.
 面对敌人需要勇气，但敢于直面朋友，需要更大的勇气。
+
+# Falling in love with yourself first doesn't make you vain or selfish , it makes you indestructible.
+先爱自己不会让你变得无用或者自私，它会让你无坚不摧。
