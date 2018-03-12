@@ -23,3 +23,6 @@
 
 # Falling in love with yourself first doesn't make you vain or selfish , it makes you indestructible.
 先爱自己不会让你变得无用或者自私，它会让你无坚不摧。
+
+# Life is not always what we want it to be. We fight.We cry.And sometimes,we give up.But there is always hope in our heart.
+生活有时不尽如人意。我们挣扎、哭泣，有时甚至放弃。但内心始终充满希望。
