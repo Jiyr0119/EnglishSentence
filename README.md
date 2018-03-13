@@ -26,3 +26,6 @@
 
 # Life is not always what we want it to be. We fight.We cry.And sometimes,we give up.But there is always hope in our heart.
 生活有时不尽如人意。我们挣扎、哭泣，有时甚至放弃。但内心始终充满希望。
+
+# Every soil,where he is well,is to a valiant man his natural country.
+勇敢的人随遇而安，所到之处都是故乡。
