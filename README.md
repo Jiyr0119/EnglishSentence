@@ -29,3 +29,9 @@
 
 # Every soil,where he is well,is to a valiant man his natural country.
 勇敢的人随遇而安，所到之处都是故乡。
+
+# Look up at the stars,not down at you feet.
+请仰望星空，而不要俯视脚下。
+
+# Sometimes people don't need advice,they just need someone to listen and care.
+有时候人们需要的不是建议，而是能有一个人来倾听和关系自己。
