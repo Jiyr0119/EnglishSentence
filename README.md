@@ -35,3 +35,6 @@
 
 # Sometimes people don't need advice,they just need someone to listen and care.
 有时候人们需要的不是建议，而是能有一个人来倾听和关系自己。
+
+# We used to look up at the sky and wonder at our place in the starts, now we just look down and worry about our place in the dirt.
+我们曾仰望星空，思考我们在宇宙中的位置，而现在我们只会低着头，担心如果在这片土地上活下去。
