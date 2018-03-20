@@ -38,3 +38,6 @@
 
 # We used to look up at the sky and wonder at our place in the starts, now we just look down and worry about our place in the dirt.
 我们曾仰望星空，思考我们在宇宙中的位置，而现在我们只会低着头，担心如果在这片土地上活下去。
+
+# We all live in the past.We take a minute to have a crush on someone,an hour to like someone,and a day to love someone,but a lifetime to forget someone.
+我们都生活在过往。我们会用一分钟时间去迷恋一个人，用一个小时的时间去喜欢一个人，再用一天时间爱上一个人，最终用一生的时间忘记一个人。
