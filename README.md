@@ -41,3 +41,6 @@
 
 # We all live in the past.We take a minute to have a crush on someone,an hour to like someone,and a day to love someone,but a lifetime to forget someone.
 我们都生活在过往。我们会用一分钟时间去迷恋一个人，用一个小时的时间去喜欢一个人，再用一天时间爱上一个人，最终用一生的时间忘记一个人。
+
+# Don't walk in front of me,I may not follow.Don't walk behind me,I may not lead. Walk beside me,just be my friend.
+不要走在我前面，我可能追不上你；不要走在我后面，我可能不会引路；走在我旁边，做我的朋友就好。
