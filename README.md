@@ -44,3 +44,6 @@
 
 # Don't walk in front of me,I may not follow.Don't walk behind me,I may not lead. Walk beside me,just be my friend.
 不要走在我前面，我可能追不上你；不要走在我后面，我可能不会引路；走在我旁边，做我的朋友就好。
+
+# I don' know if we each have a destiny,or if we're all just floating around accident alike on a breeze.
+我不懂，是我们有着各自不同的命运，还是，我们只不过都是在风中，茫然飘荡。
