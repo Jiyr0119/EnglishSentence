@@ -47,3 +47,6 @@
 
 # I don' know if we each have a destiny,or if we're all just floating around accident alike on a breeze.
 我不懂，是我们有着各自不同的命运，还是，我们只不过都是在风中，茫然飘荡。
+
+# We laughed and kept saying'see u soon', but inside we both knew we'd never see each other again.
+我们笑着说再见，却深知再见遥遥无期。
