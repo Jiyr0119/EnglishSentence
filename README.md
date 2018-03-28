@@ -50,3 +50,6 @@
 
 # We laughed and kept saying'see u soon', but inside we both knew we'd never see each other again.
 我们笑着说再见，却深知再见遥遥无期。
+
+# Be kind,for everyone is fighting a hard battle. And if you really wanna see what people are all you have to do is look.
+善良一定啊，因为大家一生都不容易。如果你想真正了解他人，你需要用心去看。
