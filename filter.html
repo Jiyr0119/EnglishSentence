@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<style lang="en">
+    img {
+        width: 200px;
+    }
+    .blur:hover {	
+        /* filter: url(blur.svg#blur); FireFox, Chrome, Opera */
+        
+        -webkit-filter: blur(5px); /* Chrome, Opera */
+        -moz-filter: blur(5px);
+            -ms-filter: blur(5px);    
+                filter: blur(5px);
+        
+        filter: progid:DXImageTransform.Microsoft.Blur(PixelRadius=5, MakeShadow=false); /* IE6~IE9 */
+    }
+    .brightness:hover {
+         -webkit-filter: brightness(76%); /* Chrome, Opera */
+        -moz-filter: brightness(76%);
+            -ms-filter: brightness(76%);    
+                filter: brightness(76%);
+    }
+    .contrast:hover {
+         -webkit-filter: contrast(149%); /* Chrome, Opera */
+        -moz-filter: contrast(149%);
+            -ms-filter: contrast(149%);    
+                filter: contrast(149%);
+    }
+    .drop-shadow:hover {
+         -webkit-filter: drop-shadow(5px 5px 10px black); /* Chrome, Opera */
+        -moz-filter: drop-shadow(5px 5px 10px black);
+            -ms-filter: drop-shadow(5px 5px 10px black);    
+                filter: drop-shadow(5px 5px 10px black);
+    }
+
+    .grayscale:hover {
+         -webkit-filter: grayscale(76%); /* Chrome, Opera */
+        -moz-filter: grayscale(76%);
+            -ms-filter: grayscale(76%);    
+                filter: grayscale(76%);
+    }
+    .hue-rotate:hover {
+         -webkit-filter: hue-rotate(50deg); /* Chrome, Opera */
+        -moz-filter: hue-rotate(50deg);
+            -ms-filter: hue-rotate(50deg);    
+                filter: hue-rotate(50deg);
+    }
+    .invert:hover {
+         -webkit-filter: invert(76%); /* Chrome, Opera */
+        -moz-filter: invert(76%);
+            -ms-filter: invert(76%);    
+                filter: invert(76%);
+    }
+    .opacity:hover {
+         -webkit-filter: opacity(.6); /* Chrome, Opera */
+        -moz-filter: opacity(.6);
+            -ms-filter: opacity(.6);    
+                filter: opacity(.6);
+    }
+    .saturate:hover {
+         -webkit-filter: saturate(180%); /* Chrome, Opera */
+        -moz-filter: saturate(180%);
+            -ms-filter: saturate(180%);    
+                filter: saturate(180%);
+    }
+    .sepia:hover {
+         -webkit-filter: sepia(80%); /* Chrome, Opera */
+        -moz-filter: sepia(80%);
+            -ms-filter: sepia(80%);    
+                filter: sepia(80%);
+    }
+
+    
+    
+</style>
+<body>
+    <img src="https://static.pic.xingxiu.tv/huaban/pic/aceae0efa9e0851bbd4e94867cbae53a33524ab3299b2-olV0Px.png" title="原图">
+    <img class="blur" src="https://static.pic.xingxiu.tv/huaban/pic/aceae0efa9e0851bbd4e94867cbae53a33524ab3299b2-olV0Px.png" title="模糊">
+    <img class="brightness" src="https://static.pic.xingxiu.tv/huaban/pic/aceae0efa9e0851bbd4e94867cbae53a33524ab3299b2-olV0Px.png" title="明暗">
+    <img class="contrast" src="https://static.pic.xingxiu.tv/huaban/pic/aceae0efa9e0851bbd4e94867cbae53a33524ab3299b2-olV0Px.png" title="对比度">
+    <img class="drop-shadow" src="https://static.pic.xingxiu.tv/huaban/pic/aceae0efa9e0851bbd4e94867cbae53a33524ab3299b2-olV0Px.png" title="阴影">
+    <img class="grayscale" src="https://static.pic.xingxiu.tv/huaban/pic/aceae0efa9e0851bbd4e94867cbae53a33524ab3299b2-olV0Px.png" title="灰度">
+    <img class="hue-rotate" src="https://static.pic.xingxiu.tv/huaban/pic/aceae0efa9e0851bbd4e94867cbae53a33524ab3299b2-olV0Px.png" title="色相旋转">
+    <img class="invert" src="https://static.pic.xingxiu.tv/huaban/pic/aceae0efa9e0851bbd4e94867cbae53a33524ab3299b2-olV0Px.png" title="翻转输入图像">
+    <img class="opacity" src="https://static.pic.xingxiu.tv/huaban/pic/aceae0efa9e0851bbd4e94867cbae53a33524ab3299b2-olV0Px.png" title="透明度">
+    <img class="saturate" src="https://static.pic.xingxiu.tv/huaban/pic/aceae0efa9e0851bbd4e94867cbae53a33524ab3299b2-olV0Px.png" title="饱和度">
+    <img class="sepia" src="https://static.pic.xingxiu.tv/huaban/pic/aceae0efa9e0851bbd4e94867cbae53a33524ab3299b2-olV0Px.png" title="深褐色">
+</body>
+</html>
