@@ -52,4 +52,7 @@
 我们笑着说再见，却深知再见遥遥无期。
 
 # Be kind,for everyone is fighting a hard battle. And if you really wanna see what people are all you have to do is look.
-善良一定啊，因为大家一生都不容易。如果你想真正了解他人，你需要用心去看。
+善良一些，因为大家一生都不容易。如果你想真正了解他人，你需要用心去看。
+
+# Things that are hard to say,are usually the most important.
+最重要的事往往最难说出口。
