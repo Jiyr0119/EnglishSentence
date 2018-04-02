@@ -56,3 +56,6 @@
 
 # Things that are hard to say,are usually the most important.
 最重要的事往往最难说出口。
+
+# It is not crowded on the way up.It is crowded where many people choose to stay within the comfort zone.
+向上的路，并不拥挤。拥挤是因为，大部分人选择了安逸。
