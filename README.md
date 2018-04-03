@@ -59,3 +59,6 @@
 
 # It is not crowded on the way up.It is crowded where many people choose to stay within the comfort zone.
 向上的路，并不拥挤。拥挤是因为，大部分人选择了安逸。
+
+# Many people live tangled life,for they want to gain others'recogonition,but unable to polish themselves peace fully.
+很多人之所以活的纠结，是因为既想得到别人的认可，却又无法静下心来提升自己。
