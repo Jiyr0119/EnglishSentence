@@ -1,0 +1,20 @@
+var list=[{"id":1, "count":3},{"id":1, "count":2},{"id":2, "count":1},{"id":3, "count":1},{"id":3, "count":12}];
+            localMap = new Map();   
+	 
+        for (var i = 0;i<list.length;i++){        //次数 n*（n+1）/2
+            for(var j = i+1;j<list.length;j++){
+                if(list[i].id === list[j].id){
+                    list[i].count = list[i].count+list[j].count;
+                    list.splice(j,1)
+                }
+            }
+        }
+        console.log(list)
+	 
+	 
+		list.map((item,index) =>{ //次数 n     优化
+            console.log(item)
+            var val = localMap.get(item.id) == null ? 0 : localMap.get(item.id);
+            localMap.set(item.id,item.count+val)
+        })
+        console.log(localMap)

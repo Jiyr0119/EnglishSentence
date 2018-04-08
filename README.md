@@ -62,3 +62,9 @@
 
 # Many people live tangled life,for they want to gain others'recogonition,but unable to polish themselves peace fully.
 很多人之所以活的纠结，是因为既想得到别人的认可，却又无法静下心来提升自己。
+
+# Love is the power to see similarity in the dissimilar
+在差异中寻求彼此的共同点，这就是爱。
+
+# The more you fear to change and lose,the more likely you will lose it without changing yourself.
+你越是害怕改变和失去，就越容易不思进取而一无所有。
