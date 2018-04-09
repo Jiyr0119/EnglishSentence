@@ -70,3 +70,4 @@
 你越是害怕改变和失去，就越容易不思进取而一无所有。
 
 # When I saw you I fell in love.And you smiled because you knew.
+看到你的那一刻，我爱上了你。你微笑，因为你知道。
