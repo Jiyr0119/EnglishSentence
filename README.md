@@ -68,3 +68,5 @@
 
 # The more you fear to change and lose,the more likely you will lose it without changing yourself.
 你越是害怕改变和失去，就越容易不思进取而一无所有。
+
+# When I saw you I fell in love.And you smiled because you knew.
