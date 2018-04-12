@@ -71,3 +71,9 @@
 
 # When I saw you I fell in love.And you smiled because you knew.
 看到你的那一刻，我爱上了你。你微笑，因为你知道。
+
+# In music one must think with the heart and feel with the brains.
+音乐要用心灵去听，用头脑去感觉。
+
+# Sometimes there is no next time, no time-outs, no second chances,sometimes it's now or never.
+有时候，真的没有下一次，没有暂停继续，没有机会重来。有时候，错过了就永远没有机会了。
