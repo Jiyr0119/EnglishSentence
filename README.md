@@ -77,3 +77,6 @@
 
 # Sometimes there is no next time, no time-outs, no second chances,sometimes it's now or never.
 有时候，真的没有下一次，没有暂停继续，没有机会重来。有时候，错过了就永远没有机会了。
+
+# The furthest distance the world is not betwenn life and death.But when i stand in front of you,yet you don't know that I love you.
+世界上最遥远的距离不是生与死，而是我就站在你面前，你却不知道我爱你。
