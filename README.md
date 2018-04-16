@@ -80,3 +80,6 @@
 
 # The furthest distance the world is not betwenn life and death.But when i stand in front of you,yet you don't know that I love you.
 世界上最遥远的距离不是生与死，而是我就站在你面前，你却不知道我爱你。
+
+# Time is a self proclaimed quack can cure all diseases.
+时间只是一个自称能包治百病的庸医。
