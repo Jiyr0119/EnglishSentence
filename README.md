@@ -83,3 +83,6 @@
 
 # Time is a self proclaimed quack can cure all diseases.
 时间只是一个自称能包治百病的庸医。
+
+# The business of life is the acquisition of memories. In the end that's all there is.
+人生就是不断收集回忆的过程，最终陪伴我们的，也只有回忆了。
