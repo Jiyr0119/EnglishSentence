@@ -86,3 +86,6 @@
 
 # The business of life is the acquisition of memories. In the end that's all there is.
 人生就是不断收集回忆的过程，最终陪伴我们的，也只有回忆了。
+
+# Love is when you sit beside someone doing nothing yet you feel perfectly happy.
+爱就是当你坐在他身边，哪怕什么都不做，也会感觉很开心。
