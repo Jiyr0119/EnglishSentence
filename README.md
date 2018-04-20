@@ -89,3 +89,6 @@
 
 # Love is when you sit beside someone doing nothing yet you feel perfectly happy.
 爱就是当你坐在他身边，哪怕什么都不做，也会感觉很开心。
+
+# Only the brave man know how to tolerance.Coward never tolerant, it is not his nature.
+只有勇敢的人才懂得如何宽容；懦夫绝不会宽容，这不是他的本性。
