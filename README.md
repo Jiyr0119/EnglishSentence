@@ -92,3 +92,6 @@
 
 # Only the brave man know how to tolerance.Coward never tolerant, it is not his nature.
 只有勇敢的人才懂得如何宽容；懦夫绝不会宽容，这不是他的本性。
+
+# It is not abilities that show what truly are,it is our choices.
+让我们成为什么样的人，并不是我们的能力，而是我们的选择。
