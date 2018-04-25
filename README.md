@@ -95,3 +95,6 @@
 
 # It is not abilities that show what truly are,it is our choices.
 让我们成为什么样的人，并不是我们的能力，而是我们的选择。
+
+# Here comes a point when a reasonable man will suallow his pride and admit that he's made a terrible mistake.
+懂道理的人，终会有放下自尊，坦诚他犯下错误的时刻。
