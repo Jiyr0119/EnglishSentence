@@ -98,3 +98,6 @@
 
 # Here comes a point when a reasonable man will suallow his pride and admit that he's made a terrible mistake.
 懂道理的人，终会有放下自尊，坦诚他犯下错误的时刻。
+
+# We are made to persist. That's how find out who we are.
+我们生来就是为了坚持，这样我们才能明白自己是谁。
