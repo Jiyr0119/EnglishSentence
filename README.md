@@ -101,3 +101,6 @@
 
 # We are made to persist. That's how find out who we are.
 我们生来就是为了坚持，这样我们才能明白自己是谁。
+
+# Don't be concerned with the distance of the journey. Every new step provides a new view; every new destination creates new joy.
+怕什么路途谣遥远。走一步有一步的风景，进一步有一步的惊喜。
