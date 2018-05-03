@@ -104,3 +104,6 @@
 
 # Don't be concerned with the distance of the journey. Every new step provides a new view; every new destination creates new joy.
 怕什么路途谣遥远。走一步有一步的风景，进一步有一步的惊喜。
+
+# God is always playing tricks on people, arranging them to meet but then to separate.
+老天总是捉弄人，安排了相遇，却又策划了分离。
