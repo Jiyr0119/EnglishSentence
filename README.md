@@ -107,3 +107,6 @@
 
 # God is always playing tricks on people, arranging them to meet but then to separate.
 老天总是捉弄人，安排了相遇，却又策划了分离。
+
+# Tears are words from the heart that can't be spoken.
+眼泪是来自心底却说不出口的话。
