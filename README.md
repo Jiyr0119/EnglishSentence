@@ -110,3 +110,9 @@
 
 # Tears are words from the heart that can't be spoken.
 眼泪是来自心底却说不出口的话。
+
+# We are all in the gutter,but some of us are looking at the stars.
+身在井隅，心向璀璨。
+
+# You are not ordinary.you are born to stand out.
+你天生与众不同，注定不会淹没在人群中。
