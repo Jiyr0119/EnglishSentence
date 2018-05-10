@@ -116,3 +116,6 @@
 
 # You are not ordinary.you are born to stand out.
 你天生与众不同，注定不会淹没在人群中。
+
+# It is no use going back to yesterday, because I was different person then.
+回到昨天毫无用处，因为今天的我和过去有所不同。
