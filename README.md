@@ -119,3 +119,6 @@
 
 # It is no use going back to yesterday, because I was different person then.
 回到昨天毫无用处，因为今天的我和过去有所不同。
+
+# Time can heal a broken heart,but it can also break a waiting heart.
+时间可以治愈一颗受伤的新，同样也可以撕裂一颗等待的心。
