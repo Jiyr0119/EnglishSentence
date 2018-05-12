@@ -122,3 +122,6 @@
 
 # Time can heal a broken heart,but it can also break a waiting heart.
 时间可以治愈一颗受伤的新，同样也可以撕裂一颗等待的心。
+
+# As long as we have memories,yesterday remains.As long as we have hopes,tomorrow awaits.
+只要我们还有回忆，昨日仍在。只要我们还有希望，明日尚待。
