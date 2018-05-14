@@ -127,3 +127,4 @@
 只要我们还有回忆，昨日仍在。只要我们还有希望，明日尚待。
 
 # A strong man will struggle with the storms of fate.
+强者能同命运的风暴抗争。
