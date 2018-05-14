@@ -125,3 +125,5 @@
 
 # As long as we have memories,yesterday remains.As long as we have hopes,tomorrow awaits.
 只要我们还有回忆，昨日仍在。只要我们还有希望，明日尚待。
+
+# A strong man will struggle with the storms of fate.
