@@ -128,3 +128,6 @@
 
 # A strong man will struggle with the storms of fate.
 强者能同命运的风暴抗争。
+
+# Maybe God wants us to meet a few wrong people before meeting the right one,so that when we finally meet the person we will know how to be grateful.
+在遇到梦中人之前，上天也学会安排我们先遇到别的人，在我们终于遇见心仪的人时，便应当心存感激。
