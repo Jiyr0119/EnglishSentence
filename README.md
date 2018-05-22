@@ -131,3 +131,6 @@
 
 # Maybe God wants us to meet a few wrong people before meeting the right one,so that when we finally meet the person we will know how to be grateful.
 在遇到梦中人之前，上天也学会安排我们先遇到别的人，在我们终于遇见心仪的人时，便应当心存感激。
+
+# If i had eight hours chop down a tree,I would spend six hours sharpening my ax.
+如果我有八小时砍到一棵树，我会拿六小时来磨斧头。
