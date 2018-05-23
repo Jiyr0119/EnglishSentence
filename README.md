@@ -134,3 +134,6 @@
 
 # If i had eight hours chop down a tree,I would spend six hours sharpening my ax.
 如果我有八小时砍到一棵树，我会拿六小时来磨斧头。
+
+# The stars change,but the mind remains the same.
+繁星纵变，但智慧永恒。
