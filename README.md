@@ -137,3 +137,6 @@
 
 # The stars change,but the mind remains the same.
 繁星纵变，但智慧永恒。
+
+# A friend is one of the nicest things you can have,and one of the best things you can be.
+拥有朋友是最美好的一件事，成为别人的朋友是最美妙的一件事。
