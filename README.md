@@ -140,3 +140,6 @@
 
 # A friend is one of the nicest things you can have,and one of the best things you can be.
 拥有朋友是最美好的一件事，成为别人的朋友是最美妙的一件事。
+
+# Life itself is the most wonderful fairy tale.
+生活奔上就是最美妙的童话故事
