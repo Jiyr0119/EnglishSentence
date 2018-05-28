@@ -143,3 +143,6 @@
 
 # Life itself is the most wonderful fairy tale.
 生活奔上就是最美妙的童话故事
+
+# The best things in life are free,like hugs,smiles,friends,kisses,family,love and good memories.
+世界上最美好的东西都是免费的，就像拥抱，微笑，朋友，亲吻，家庭，爱，美好回忆...
