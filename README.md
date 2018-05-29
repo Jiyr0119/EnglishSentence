@@ -146,3 +146,6 @@
 
 # The best things in life are free,like hugs,smiles,friends,kisses,family,love and good memories.
 世界上最美好的东西都是免费的，就像拥抱，微笑，朋友，亲吻，家庭，爱，美好回忆...
+
+# The meaning of life is not simply to exist,to survive,but to move ahead,to go up,to achieve,to conquer.
+生命的意义不仅在于简单的存在与活着，而是去前行、进步、获取和征服。
