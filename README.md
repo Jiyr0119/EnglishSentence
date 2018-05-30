@@ -149,3 +149,6 @@
 
 # The meaning of life is not simply to exist,to survive,but to move ahead,to go up,to achieve,to conquer.
 生命的意义不仅在于简单的存在与活着，而是去前行、进步、获取和征服。
+
+# Success does not consist in never making mistakes but in never making the same one a second time.
+成功并不在在于从不犯错，而在于不重蹈覆辙。
