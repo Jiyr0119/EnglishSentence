@@ -152,3 +152,6 @@
 
 # Success does not consist in never making mistakes but in never making the same one a second time.
 成功并不在在于从不犯错，而在于不重蹈覆辙。
+
+# Only the deaf appreciate heaeing, only the blind realize the manifold blessings that lie in sight.
+只有聋子才珍惜听力，只有盲人才能感受到看见光明的喜悦。
