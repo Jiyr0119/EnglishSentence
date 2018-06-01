@@ -155,3 +155,6 @@
 
 # Only the deaf appreciate heaeing, only the blind realize the manifold blessings that lie in sight.
 只有聋子才珍惜听力，只有盲人才能感受到看见光明的喜悦。
+
+# Childhood is the golden field,the green river,and the colorful pebble beach.
+童年是金色的田野，是青青的小河，是五彩斑斓的卵石滩。
