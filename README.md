@@ -158,3 +158,6 @@
 
 # Childhood is the golden field,the green river,and the colorful pebble beach.
 童年是金色的田野，是青青的小河，是五彩斑斓的卵石滩。
+
+# The world always makes way for the dreamer.
+世界总为梦想者让路。
