@@ -161,3 +161,6 @@
 
 # The world always makes way for the dreamer.
 世界总为梦想者让路。
+
+# There is nothing difficult for us to do in the world.If we do it,difficult thing will be easy;if we do not,the easy thing will be difficult.
+天下事有难易乎？为之，则难者亦易矣;不为，则易者亦难矣。
