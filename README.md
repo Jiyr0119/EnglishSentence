@@ -167,3 +167,6 @@
 
 # Do not let your dream be dream.
 别让你的梦想只成为梦想。
+
+# Not everything that counts can be counted,and not everything that's counted truly counts.
+不是所有有价值的事物都可以被计算，也不是所有可计算的事物都值得去计算。
