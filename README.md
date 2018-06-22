@@ -172,4 +172,4 @@
 不是所有有价值的事物都可以被计算，也不是所有可计算的事物都值得去计算。
 
 # If you don't go for a walk,you'll think this is the world.
-如果你不出去走走，你就会以为这就是全世界。
+如果你不出去走走，你就以为这就是全世界。
