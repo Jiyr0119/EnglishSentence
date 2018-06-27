@@ -173,3 +173,6 @@
 
 # If you don't go for a walk,you'll think this is the world.
 如果你不出去走走，你就以为这就是全世界。
+
+# Doing what you like is freedom, liking what you do is happiness.
+自由是你做自己喜欢的事，而幸福却是喜欢你自己做的事。
