@@ -176,3 +176,6 @@
 
 # Doing what you like is freedom, liking what you do is happiness.
 自由是你做自己喜欢的事，而幸福却是喜欢你自己做的事。
+
+# A person's character is not determined by how he or she enjoys victory, but rather how he or she endures defeat.
+一个人的人格不取决于他如何享受胜利，而在于这个人如何忍受失败。
