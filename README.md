@@ -179,3 +179,6 @@
 
 # A person's character is not determined by how he or she enjoys victory, but rather how he or she endures defeat.
 一个人的人格不取决于他如何享受胜利，而在于这个人如何忍受失败。
+
+# This kind of certainty comes just once in a lifetime.
+这样确信无疑的爱，一生只此一次。
