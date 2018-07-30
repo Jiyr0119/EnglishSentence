@@ -10,8 +10,6 @@ var list=[{"id":1, "count":3},{"id":1, "count":2},{"id":2, "count":1},{"id":3, "
             }
         }
         console.log(list)
-	 
-	 
 		list.map((item,index) =>{ //次数 n     优化
             console.log(item)
             var val = localMap.get(item.id) == null ? 0 : localMap.get(item.id);
