@@ -182,3 +182,6 @@
 
 # This kind of certainty comes just once in a lifetime.
 这样确信无疑的爱，一生只此一次。
+
+# In me the tiger sniffes rose, after the feast bursts the tear.
+心如猛虎 细嗅蔷薇， 盛宴过后 泪流满面。 
