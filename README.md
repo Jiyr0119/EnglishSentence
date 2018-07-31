@@ -185,3 +185,6 @@
 
 # In me the tiger sniffes rose, after the feast bursts the tear.
 心如猛虎 细嗅蔷薇， 盛宴过后 泪流满面。 
+
+# Why do we fall ?  So we can learn to pick ourselves up.
+为什么我们会跌倒，因为这样才能学会站起来。
