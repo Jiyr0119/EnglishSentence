@@ -189,5 +189,5 @@
 # Why do we fall ?  So we can learn to pick ourselves up.
 为什么我们会跌倒，因为这样才能学会站起来。
 
-# No matter how hard we try to de be mature， we will always be a kid when we all get hurt and cry.
+# No matter how hard we try to do be mature， we will always be a kid when we all get hurt and cry.
 不管多努力变成熟，一旦受伤哭泣时，我们还是像个孩子。
