@@ -191,3 +191,6 @@
 
 # No matter how hard we try to do be mature， we will always be a kid when we all get hurt and cry.
 不管多努力变成熟，一旦受伤哭泣时，我们还是像个孩子。
+
+# I am just a sunflower, waiting for my only sunshine.
+我只是一株向日葵，只期待着属于自己的那缕阳光。
