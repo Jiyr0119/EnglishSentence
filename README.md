@@ -194,3 +194,6 @@
 
 # I am just a sunflower, waiting for my only sunshine.
 我只是一株向日葵，只期待着属于自己的那缕阳光。
+
+# burdens are for shoulders strong enough to carry them.
+沉重的担子是那些有着坚强的肩膀的人来挑的。
