@@ -197,3 +197,6 @@
 
 # burdens are for shoulders strong enough to carry them.
 沉重的担子是那些有着坚强的肩膀的人来挑的。
+
+# human life is like flowing water, only when it hits isles and reefs can it create beautiful waves.
+人的生命，似洪水奔流，不遇岛屿和暗礁，难以激起美丽的浪花。
