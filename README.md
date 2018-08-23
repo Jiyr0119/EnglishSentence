@@ -200,3 +200,6 @@
 
 # human life is like flowing water, only when it hits isles and reefs can it create beautiful waves.
 人的生命，似洪水奔流，不遇岛屿和暗礁，难以激起美丽的浪花。
+
+# There are only two ways to live your life. One is as though nothing is a miracle, The other is as though everthing is a miracle.
+生活有两种方式，一则是没有奇迹发生，另一种则到处是奇迹。
