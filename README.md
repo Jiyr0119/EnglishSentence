@@ -203,3 +203,6 @@
 
 # There are only two ways to live your life. One is as though nothing is a miracle, The other is as though everthing is a miracle.
 生活有两种方式，一则是没有奇迹发生，另一种则到处是奇迹。
+
+# One who frequently looks back can't go far.
+一个频频回头的人,是走不了远路的。
