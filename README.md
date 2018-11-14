@@ -206,9 +206,11 @@
 
 # One who frequently looks back can't go far.
 一个频频回头的人,是走不了远路的。
-
 # One is always on a strange road, watching strange scenery and listening to strange music.Then one day,you will find that the things you try hard to forget are already gone.
 一个人总要走陌生的路，看陌生的风景，听陌生的歌。总有一天，在某个不经意的瞬间，你会发现，曾经想要忘记的事情早已消逝。
 
 # If at first don`t succeed, then dust yourself and try again.
 失败了没关系，重整旗鼓，从头再来。
+
+# I love waking up in the morning,not knowing what's going to happen,or whom I'going to meet, where I'm going to wind uo.
+我喜欢早上起来时一切都是未知的，不知会遇见什么人，会有什么样的结局。
