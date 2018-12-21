@@ -217,3 +217,8 @@
 
 # The respectability of youth in their courage and great expectation.
 年轻人的可敬指出在于勇气和远大前程。
+
+# The value of life, not with time, but with the depth to be measured.
+生命的价值，不是随时间而定，而是与所要测量的深度。
+
+# All we can do, for the moment is really we need to do-listen to ourselves . When we are trying to get better, the only truth that matters is what works for.
